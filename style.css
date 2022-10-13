@@ -5,6 +5,9 @@ body {
 	width: 75%;
 	margin: auto;
 }
+h1{
+	color: aqua;
+}
 
 hr {
 	/*background-color: #f54864; */
